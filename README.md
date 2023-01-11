@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @allwinandrews
-- 👀 I’m interested in working on React JS
+- 👀 I’m interested in working on ReactJS and Next.js
 - 🌱 I’m currently learning React JS ,because we never completely learn anything
 - 📫 Reach me via allwinandrews@gmail.com

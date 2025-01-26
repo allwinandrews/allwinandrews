@@ -19,8 +19,8 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: allwinandrews@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/allwinjandrews)  
-- 🌐 Portfolio: https://allwin-j-andrews-portfolio.vercel.app/
+- 🔗 LinkedIn: https://www.linkedin.com/in/allwinjandrews
+- 🌐 Portfolio: https://allwin-j-andrews-portfolio.vercel.app
 
 ---
 

@@ -21,7 +21,3 @@
 - 📧 Email: allwinandrews@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/allwinjandrews
 - 🌐 Portfolio: https://allwin-j-andrews-portfolio.vercel.app
-
----
-
-Feel free to use or modify this to suit your style. Would you like me to further refine or focus on specific aspects of your experience? Let me know!

@@ -18,8 +18,8 @@
 - **Tools**: Git, JIRA, Jest
 
 ### 📫 How to Reach Me
-- 📧 Email: [allwinandrews@gmail.com](mailto:allwinandrews@gmail.com)  
-- 🔗 LinkedIn: [Allwin Andrews](https://www.linkedin.com/in/allwinjandrews)  
+- 📧 Email: mailto:allwinandrews@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/allwinjandrews)  
 - 🌐 Portfolio: https://allwin-j-andrews-portfolio.vercel.app/
 
 ---

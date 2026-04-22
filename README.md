@@ -20,4 +20,4 @@
 ### 📫 How to Reach Me
 - 📧 Email: allwinandrews@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/allwinjandrews
-- 🌐 Portfolio: https://preview--pristine-display-maker.lovable.app
+- 🌐 Portfolio: https://allwinjamesandrews.lovable.app
